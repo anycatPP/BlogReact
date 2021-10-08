@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "I need internship ",
+      "datetime": "October 08, 2021 11:10:59 PM",
+      "body": "yeah i know MERN postgres sql flutter docker linux postman and all technology jargon you wanna listen"
+    },
+    {
+      "id": 2,
+      "title": "yeah that's blog",
+      "datetime": "October 08, 2021 11:12:07 PM",
+      "body": "hahah that's definitely blog app"
+    }
+  ]
+}
